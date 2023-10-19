@@ -620,6 +620,7 @@ MonoBehaviour:
   JumpForce: 10
   GravityModifier: 2
   IsOnGround: 1
+  GameOver: 0
 --- !u!1 &2014335011
 GameObject:
   m_ObjectHideFlags: 0
